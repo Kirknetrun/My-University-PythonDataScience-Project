@@ -9,7 +9,7 @@ A database of statistics on the epidemic situation in Poland, maintained indepen
 
 There are eight columns in the sheet for each province, which have names that are too long to be conveniently visualized, so we have taken the liberty of abbreviating them and they look as follows:
   - hospi - Number of people hospitalized
-  - zmian - shift (d/d)
+  - zmian - change (d/d)
   - łóż - Number of patient beds
   - %zaj - % occupied
   - respSC - Number of occupied respirators (severe condition)
